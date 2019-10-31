@@ -9,6 +9,8 @@ installed.
 
 
 ## Run with docker
+- Be start.sh executable 
+    - `chmod +x start.sh`
 - Just run the command below to start the container. 
     - `sudo ./start.sh`
 - For logs application 
